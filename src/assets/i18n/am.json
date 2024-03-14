@@ -152,8 +152,8 @@
       "imgs": [
         "assets/images/hands-game.png"
       ],
-      "ghLink": "https://github.com/andresjosehr/hands-game",
-      "demoLink": "https://projects.andresjosehr.com/hands-game",
+      "ghLink": "https://github.com/nati/hands-game",
+      "demoLink": "https://projects.nati.com/hands-game",
       "Technologies": [
         "Angular",
         "CSS GRID",
@@ -167,8 +167,8 @@
       "imgs": [
         "assets/images/countries-viewer.png"
       ],
-      "ghLink": "https://github.com/andresjosehr/countries-viewer",
-      "demoLink": "https://projects.andresjosehr.com/countries-viewer",
+      "ghLink": "https://github.com/nati/countries-viewer",
+      "demoLink": "https://projects.nati.com/countries-viewer",
       "Technologies": [
         "Angular",
         "RxJS",
@@ -182,8 +182,8 @@
     {
       "Title": "Pokemon",
       "Description": "Pokemon search engine that uses the pokeapi. Object-oriented programming was used to organize the information of the pokemons along with their respective image.",
-      "ghLink": "https://github.com/andresjosehr/pokemon-angular",
-      "demoLink": "https://projects.andresjosehr.com/pokemon-list",
+      "ghLink": "https://github.com/nati/pokemon-angular",
+      "demoLink": "https://projects.nati.com/pokemon-list",
       "Technologies": [
         "Angular",
         "RxJs",
@@ -194,8 +194,8 @@
     {
       "Title": "Coming soon page",
       "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Scheduled to be a fully responsive design. It has a form field to subscribe by email.",
-      "ghLink": "https://github.com/andresjosehr/coming-soon-page",
-      "demoLink": "https://projects.andresjosehr.com/coming-soon-page",
+      "ghLink": "https://github.com/nati/coming-soon-page",
+      "demoLink": "https://projects.nati.com/coming-soon-page",
       "Technologies": [
         "Angular",
         "SASS",
@@ -206,8 +206,8 @@
     {
       "Title": "Four card feature section",
       "Description": "A single page that has a minimal design, listing four features on four cards. Input animations are done with angular animations.",
-      "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
-      "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
+      "ghLink": "https://github.com/nati/fourd-card-feature-section",
+      "demoLink": "https://projects.nati.com/four-card-feature-section",
       "Technologies": [
         "Angular",
         "SASS",
@@ -217,8 +217,8 @@
     {
       "Title": "Social proof section",
       "Description": "Personal project of a page designed from a Figma layout. Angular was used for development together with SASS and CSS GRID.",
-      "ghLink": "https://github.com/andresjosehr/social-proof-section",
-      "demoLink": "https://projects.andresjosehr.com/social-proof-section",
+      "ghLink": "https://github.com/nati/social-proof-section",
+      "demoLink": "https://projects.nati.com/social-proof-section",
       "Technologies": [
         "Angular",
         "CSS GRID",
@@ -228,8 +228,8 @@
     {
       "Title": "FAQ accordion card",
       "Description": "FAQ accordion with logic and animations made in Angular.",
-      "ghLink": "https://github.com/andresjosehr/faq-accordion",
-      "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
+      "ghLink": "https://github.com/nati/faq-accordion",
+      "demoLink": "https://proyectos.nati.com/faq-accordion",
       "Technologies": [
         "Angular",
         "CSS GRID",
@@ -239,8 +239,8 @@
     {
       "Title": "Profile card",
       "Description": "Simple one-page design that features a profile letter with basic information about a person.",
-      "ghLink": "https://github.com/andresjosehr/profile-card-component",
-      "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
+      "ghLink": "https://github.com/nati/profile-card-component",
+      "demoLink": "https://proyectos.nati.com/profile-card-component",
       "Technologies": [
         "Angular",
         "SASS",
