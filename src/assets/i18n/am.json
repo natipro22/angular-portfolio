@@ -5,7 +5,7 @@
   "Header.Item3": "ፕሮጀክቶች",
   "Header.Item4": "ተገናኝ",
   "Header.cvBtn": "Resume",
-  "Header.cvName": "CV_Natnael_Yirga_Meri.pdf",
+  "Header.cvName": "Nati_CV.pdf",
   "Banner.Pretitle": "ሀሎ! የኔ ስም",
   "Banner.Description": "I have <span class='underline'>1+ years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>ASP.NET Core</span> and <span class='underline'>Angular</span> applying good practices and development standards.",
   "Banner.ActionBtn": "ተገናኝ",
@@ -15,165 +15,64 @@
     "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
     "Some of the technologies that I have trained and worked on include (but are not limited to):"
   ],
-  "Experience.Title": "Experience",
+  "Experience.Title": "ልምድ",
   "Experience.Jobs": [
     {
       "Tab": "Project",
-      "Title": ".NET developer",
+      "Title": ".Net developer",
       "Date": "April 2022 - Present",
       "Description": [
-        "Creation and maintenance of a monitoring platform with graphics in WordPress.",
-        "Functional programming in templates and plugins to add the necessary monitoring features.",
-        "Implementation of continuous integration and daily backups.",
-        "Creation and maintenance of a second Monitoring Platform Done in Angular, Angular Material, Laravel, Mysql, RxJS, Sass with graphics (configurable), alarm system, and user management and configuration of general parameters.",
-        "Planning meetings in reports."
-      ]
-    },
-    {
-      "Tab": "Freelancer",
-      "Title": "Independent",
-      "Date": "May 2016 - Present",
-      "Description": [
-        "Implementing continuous improvements, working on .NET and backend.",
-        "Creating platforms with Angular, Laravel, ExpressJS, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
-        "Automation of processes with data structures.",
-        "Design layout with SASS, Bootstrap, Materialize, Bulma, etc."
-      ]
-    },
-    {
-      "Tab": "Moebius",
-      "Title": "FullStack developer",
-      "Date": "July 2017 - October 2018",
-      "Description": [
-        "Leading a team of 4 people in the development of a Tourism Data management platform made in Angular, Laravel, and MySQL.",
-        "Implementation CI / CD in Azure. Refactoring and optimizing application load times.",
-        "Coding of API requests with RxJS.",
-        "Creation of modules with complex reactive forms",
-        "Writing weekly reports about goals and plans."
-      ]
-    },
-    {
-      "Tab": "TechLatam",
-      "Title": ".NET developer",
-      "Date": "February 2016 - May 2017",
-      "Description": [
-        "Creation of WordPress templates with ACF, functional programming in Javascript / jQuery, styles in SASS",
-        "integration of design improvements, and template loading times.",
-        "Effective communication with the design team, working with Avocode / Figma."
-      ]
-    },
-    {
-      "Tab": "CANTV",
-      "Title": "System analyst",
-      "Date": "November 2015 - December 2016",
-      "Description": [
-        "Programming of new functionalities for an existing employee management platform made in Angular and ExpressJS.",
-        "Perform refactoring of old code. Ensuring compatibility of every dependency in every update, along with regular Angular update as well."
-      ]
-    },
-    {
-      "Tab": "IEP",
-      "Title": "English teacher",
-      "Date": "January 2015 - July 2015",
-      "Description": [
-        "Teaching English at a basic level to an enrollment of more than 200 students."
+        "Create and design detabase tables.",
+        "Create APIs",
+        "Testing",
+        "Fix bugs"
       ]
     }
   ],
-  "FeatureProjects.Title": "My projects",
+  "FeatureProjects.Title": "የእኔ ፕሮጀክቶች",
   "FeatureProjects.Label": "Featured Project",
   "FeatureProjects.Projects": [
     {
-      "Title": "Agrourbana",
-      "Description": "Monitoring application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
+      "Title": "Smart Vital Event Registration Management Systems",
+      "Description": "Oromia Civil Registration System is a web application that is mainly used to register civilians for <span class='underline'>Oromia regional State government</span> to track and manage region’s civilians' events like <span class='underline'>birth</span>, <span class='underline'>death</span>, <span class='underline'>adoption</span>, <span class='underline'>marriage</span> and <span class='underline'>divorce</span>.",
       "imgs": [
-        "assets/images/agrourbana/agrourbana1.png",
-        "assets/images/agrourbana/agrourbana2.png",
-        "assets/images/agrourbana/agrourbana3.png",
-        "assets/images/agrourbana/agrourbana4.png",
-        "assets/images/agrourbana/agrourbana5.png"
+        "assets/images/ocra/SmartOCRA1.png",
+        "assets/images/ocra/SmartOCRA2.png",
+        "assets/images/ocra/SmartOCRA3.png",
+        "assets/images/ocra/SmartOCRA4.png",
+        "assets/images/ocra/SmartOCRA5.png",
+        "assets/images/ocra/SmartOCRA6.png"
       ],
       "Technologies": [
-        "ASP.NET Core",
-        "EF Core",
-        "Clean Architecture",
+        "ASP .NET Core",
         "Angular",
         "SASS",
-        "Angular Material",
+        "Syncfusion",
         "RxJS"
       ]
     },
     {
-      "Title": "Tu super plan",
-      "Description": "Health plan quote that has a search engine with which advanced queries are made. Plans are displayed based on the user's age, monthly income, and location. It has <span class='underline'>online chat</span, <span class='underline'>contact form</span>, <span class='underline'>notification system by whatsapp and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>internet information management through the role of administrator.</span>",
+      "Title": "Geez Net",
+      "Description": "Converts <span class='underline'>ASCII</span> number like '3456' to <span class='underline'>Geez</span> number '፴፬፻፶፮' and vise versa.",
       "imgs": [
-        "assets/images/tusuperplan/tusuperplan1.png",
-        "assets/images/tusuperplan/tusuperplan2.png",
-        "assets/images/tusuperplan/tusuperplan3.png",
-        "assets/images/tusuperplan/tusuperplan4.png",
-        "assets/images/tusuperplan/tusuperplan5.png"
+        "assets/images/geeznet/geezNumbers.jfif",
+        "assets/images/geeznet/GeezNet.png"
       ],
       "Technologies": [
-        "Laravel",
-        "Angular",
-        "SASS",
-        "Angular Material",
-        "RxJS"
+        "C#",
+        "Class Library"
       ]
     },
     {
-      "Title": "Proyexiot",
-      "Description": "Data monitoring platform belonging to water wells, tugboats, and various installations made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers.</span>",
+      "Title": "Lucy Calendar",
+      "Description": "Converts <span class='underline'>Gregorian</span> date to <span class='underline'>Ethiopian</span> date and vise versa.",
       "imgs": [
-        "assets/images/proyex/proyex1.png",
-        "assets/images/proyex/proyex2.png",
-        "assets/images/proyex/proyex3.png",
-        "assets/images/proyex/proyex4.png",
-        "assets/images/proyex/proyex5.png",
-        "assets/images/proyex/proyex6.png",
-        "assets/images/proyex/proyex7.png",
-        "assets/images/proyex/proyex8.png",
-        "assets/images/proyex/proyex9.png",
-        "assets/images/proyex/proyex10.png",
-        "assets/images/proyex/proyex11.png",
-        "assets/images/proyex/proyex12.png"
+        "assets/images/lucyCalendar/lucy.png",
+        "assets/images/lucyCalendar/lucy1.png"
       ],
       "Technologies": [
-        "Laravel",
-        "Angular",
-        "SASS",
-        "Angular Material",
-        "RxJS"
-      ]
-    },
-    {
-      "Title": "Hands game",
-      "Description": "The rock-paper-scissors game extended. A personal project developed in angular in which you play randomly against the machine. It has the use of services, interfaces, and components.",
-      "imgs": [
-        "assets/images/hands-game.png"
-      ],
-      "ghLink": "https://github.com/nati/hands-game",
-      "demoLink": "https://projects.nati.com/hands-game",
-      "Technologies": [
-        "Angular",
-        "CSS GRID",
-        "SASS",
-        "Angular animations"
-      ]
-    },
-    {
-      "Title": "Countries viewer",
-      "Description": "An interface that consumes an API of countries with which you can view a list of countries, see details of each country, filter by name and region. It also has a dark mode to switch between dark and light themes.",
-      "imgs": [
-        "assets/images/countries-viewer.png"
-      ],
-      "ghLink": "https://github.com/nati/countries-viewer",
-      "demoLink": "https://projects.nati.com/countries-viewer",
-      "Technologies": [
-        "Angular",
-        "RxJS",
-        "SASS",
-        "API"
+        "C#",
+        "Class Library"
       ]
     }
   ],
@@ -248,8 +147,8 @@
       ]
     }
   ],
-  "Contact.Pretitle": "What’s Next",
+  "Contact.Pretitle": "ቀጥሎ ምን አለ?",
   "Contact.Title": "Get in touch!",
-  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
-  "Contact.Btn": "Say Hello"
+  "Contact.Content": "ስለ አዳዲስ እድሎች ማውራት ከፈለጉ እውቂያዎን በማግኘቴ ደስተኛ ነኝ። መልእክት ፃፉልኝ እና መልእክትህን እንዳየሁ እመልስለታለሁ።",
+  "Contact.Btn": "ሰላም በል"
 }
