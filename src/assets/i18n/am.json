@@ -7,20 +7,20 @@
   "Header.cvBtn": "Resume",
   "Header.cvName": "Nati_CV.pdf",
   "Banner.Pretitle": "ሀሎ! የኔ ስም",
-  "Banner.Description": "I have <span class='underline'>1+ years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>ASP.NET Core</span> and <span class='underline'>Angular</span> applying good practices and development standards.",
+  "Banner.Description": "ድሩን የተሻለ ቦታ ለማድረግ ስርዓቶችን፣ መገናኛዎችን፣ ቦቶችን እና የቴክኖሎጂ መፍትሄዎችን በማዘጋጀት <span class='underline'>የ1+ አመት ልምድ አለኝ።</span> <span class='underline'>በASP.NET Core</span> እና <span class='underline'>Angular</span> ውስጥ ጥሩ ልምዶችን እና የእድገት ደረጃዎችን በመተግበር ንፁህ፣ ሊደገም የሚችል እና ሊሰፋ የሚችል ኮድ ለመፃፍ እና እንደገና ለመስራት ቆርጫለሁ።",
   "Banner.ActionBtn": "ተገናኝ",
   "AboutMe.Title": "ስለ እኔ",
   "AboutMe.Paragraphs": [
-    "In my <span class='underline'>1+ years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>ASP.NET Core and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
-    "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
-    "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    "በእኔ <span class='underline'>1+ አመት እንደ ገንቢ</span>፣ በየቀኑ ማሰልጠን እፈልጋለሁ። <span class='underline'>unit tests</span>፣ <span class='underline'>ቀጣይ ውህደትን በመፈጸም</span> እና በ<span class='underline'>ASP በመጻፍ የጀርባ ገንቢ ሚናዎችን በመጻፍ ሰርቻለሁ። .NET Core እና Mysql</span>። ቡድኖቹ ርህራሄ እንዲኖራቸው፣ ለአጋሮች ተነሳሽነትን እንዲለማመዱ እና እቅዶችን እና ግቦችን አንድ ላይ እንዲያወጡ መርቻለሁ።",
+    "ክህሎቶቼ የስርዓት ማሻሻያዎችን መተግበር፣ ጣቢያዎችን ማመቻቸት፣ ስርዓተ-ጥለት ማስተካከል እና እየሰራሁበት ላለው ፕሮጀክት እሴት የሚጨምሩ ሀሳቦችን መጠቆም እና ማስፈጸምን ያጠቃልላል።",
+    "ካሰለጠንኳቸው እና ከሰራኋቸው ቴክኖሎጂዎች መካከል (ነገር ግን በእነዚህ ብቻ ያልተገደቡ ናቸው)፡-"
   ],
   "Experience.Title": "ልምድ",
   "Experience.Jobs": [
     {
-      "Tab": "Project",
+      "Tab": "ፕሮጀክት",
       "Title": ".Net developer",
-      "Date": "April 2022 - Present",
+      "Date": "ኤፕሪል 2023 - አሁን",
       "Description": [
         "Create and design detabase tables.",
         "Create APIs",
@@ -33,8 +33,8 @@
   "FeatureProjects.Label": "Featured Project",
   "FeatureProjects.Projects": [
     {
-      "Title": "Smart Vital Event Registration Management Systems",
-      "Description": "Oromia Civil Registration System is a web application that is mainly used to register civilians for <span class='underline'>Oromia regional State government</span> to track and manage region’s civilians' events like <span class='underline'>birth</span>, <span class='underline'>death</span>, <span class='underline'>adoption</span>, <span class='underline'>marriage</span> and <span class='underline'>divorce</span>.",
+      "Title": "ስማርት ወሳኝ ክስተት ምዝገባ አስተዳደር ስርዓቶች",
+      "Description": "የኦሮሚያ ሲቪል መመዝገቢያ ስርዓት እንደ <span class='underline'>ልደት ያሉ የክልሉን ሲቪሎች ክስተቶች ለመከታተል እና ለማስተዳደር በዋናነት <span class='underline'>የኦሮሚያ ክልላዊ መንግስት</span> ሰላማዊ ዜጎችን ለመመዝገብ የሚያገለግል የድር መተግበሪያ ነው። </span>፣ <span class='underline'>ሞት</span>፣ <span class='underline'>ማደጎ</span>፣ <span class='underline'>ጋብቻ</span> እና <span class ='መስመር'>ፍቺ</span>።",
       "imgs": [
         "assets/images/ocra/SmartOCRA1.png",
         "assets/images/ocra/SmartOCRA2.png",
@@ -53,7 +53,7 @@
     },
     {
       "Title": "Geez Net",
-      "Description": "Converts <span class='underline'>ASCII</span> number like '3456' to <span class='underline'>Geez</span> number '፴፬፻፶፮' and vise versa.",
+      "Description": "እንደ '3456' ያለውን ቁጥር <span class='underline'>ASCII</span> ወደ <span class='underline'>ግእዝ</span> ቁጥር ፴፬፶፮ እና በተቃራኒው ይለውጣል።",
       "imgs": [
         "assets/images/geeznet/geezNumbers.jfif",
         "assets/images/geeznet/GeezNet.png"
@@ -65,7 +65,7 @@
     },
     {
       "Title": "Lucy Calendar",
-      "Description": "Converts <span class='underline'>Gregorian</span> date to <span class='underline'>Ethiopian</span> date and vise versa.",
+      "Description": "<span class='underline'>የግሪጎሪያን</span> ቀን ወደ <span class='underline'>የኢትዮጵያ</span> ቀን እና በተቃራኒው ይለውጣል።",
       "imgs": [
         "assets/images/lucyCalendar/lucy.png",
         "assets/images/lucyCalendar/lucy1.png"
@@ -150,5 +150,5 @@
   "Contact.Pretitle": "ቀጥሎ ምን አለ?",
   "Contact.Title": "Get in touch!",
   "Contact.Content": "ስለ አዳዲስ እድሎች ማውራት ከፈለጉ እውቂያዎን በማግኘቴ ደስተኛ ነኝ። መልእክት ፃፉልኝ እና መልእክትህን እንዳየሁ እመልስለታለሁ።",
-  "Contact.Btn": "ሰላም በል"
+  "Contact.Btn": "ሰላም"
 }
