@@ -11,11 +11,11 @@ export class AnalyticsService {
   ) { }
 
   sendAnalyticEvent(action: string, category: string, label){
-    // this.$gaService.event(action, category, label)
+    this.$gaService.event(action, category, label)
   }
 
   sendAnalyticPageView(path: string, title: string){
-    // this.$gaService.pageView(path, title)
+    this.$gaService.pageView(path, title)
   }
 
 }
