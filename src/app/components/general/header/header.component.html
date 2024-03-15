@@ -14,8 +14,8 @@
           analyticsService.sendAnalyticEvent('click_about', 'menu', 'click')
         "
       >
-        <a ngbNavLink (click)="scroll('about')"
-          ><span class="nav-number">01. </span>
+        <a ngbNavLink (click)="scroll('about')">
+          <!-- <span class="nav-number">01. </span> -->
           <span class="underline nav-text">
             {{ "Header.Item1" | translate }}</span
           ></a
@@ -32,8 +32,8 @@
           )
         "
       >
-        <a ngbNavLink (click)="scroll('jobs')"
-          ><span class="nav-number">02. </span>
+        <a ngbNavLink (click)="scroll('jobs')">
+          <!-- <span class="nav-number">02. </span> -->
           <span class="underline nav-text">
             {{ "Header.Item2" | translate }}</span
           ></a
@@ -46,8 +46,8 @@
           analyticsService.sendAnalyticEvent('click_jobs', 'menu', 'click')
         "
       >
-        <a ngbNavLink (click)="scroll('proyects')"
-          ><span class="nav-number">03. </span>
+        <a ngbNavLink (click)="scroll('proyects')">
+          <!-- <span class="nav-number">03. </span> -->
           <span class="underline nav-text">
             {{ "Header.Item3" | translate }}</span
           ></a
@@ -60,8 +60,8 @@
           analyticsService.sendAnalyticEvent('click_contact', 'menu', 'click')
         "
       >
-        <a ngbNavLink (click)="scroll('contact')"
-          ><span class="nav-number">04. </span>
+        <a ngbNavLink (click)="scroll('contact')">
+          <!-- <span class="nav-number">04. </span> -->
           <span class="underline nav-text">
             {{ "Header.Item4" | translate }}</span
           ></a
@@ -197,7 +197,8 @@
               "
             >
               <a (click)="scroll('about')">
-                <span>01. </span> {{ "Header.Item1" | translate }}
+                <!-- <span>01. </span>  -->
+                {{ "Header.Item1" | translate }}
               </a>
             </li>
             <li
@@ -210,7 +211,8 @@
               "
             >
               <a (click)="scroll('jobs')">
-                <span>02. </span> {{ "Header.Item2" | translate }}
+                <!-- <span>02. </span>  -->
+                {{ "Header.Item2" | translate }}
               </a>
             </li>
             <li
@@ -223,7 +225,8 @@
               "
             >
               <a (click)="scroll('proyects')">
-                <span>03. </span> {{ "Header.Item3" | translate }}
+                <!-- <span>03. </span>  -->
+                {{ "Header.Item3" | translate }}
               </a>
             </li>
             <li
@@ -236,7 +239,8 @@
               "
             >
               <a (click)="scroll('proyects')">
-                <span>04. </span> {{ "Header.Item4" | translate }}
+                <!-- <span>04. </span>  -->
+                {{ "Header.Item4" | translate }}
               </a>
             </li>
             <li>
@@ -257,9 +261,9 @@
                 >
                   <img
                     src="https://www.worldometers.info/img/flags/et-flag.gif"
-                    alt="Español"
+                    alt="Amharic"
                   />
-                  <span class="flag-text">Español</span>
+                  <span class="flag-text">Amharic</span>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="16"
