@@ -22,11 +22,12 @@
       "Title": ".Net developer",
       "Date": "ኤፕሪል 2023 - አሁን",
       "Description": [
-        "Create and design detabase tables.",
-        "Create APIs",
-        "Testing",
-        "Fix bugs"
-      ]
+        "Database Design",
+        "API Design",
+        "RestAPIs",
+        "Bug Fix",
+        "Optimization"
+    ]
     }
   ],
   "FeatureProjects.Title": "የእኔ ፕሮጀክቶች",
@@ -34,6 +35,8 @@
   "FeatureProjects.Projects": [
     {
       "Title": "ስማርት ወሳኝ ክስተት ምዝገባ አስተዳደር ስርዓቶች",
+      "Source": "https://github.com/natipro22/",
+      "Nuget": "",
       "Description": "የኦሮሚያ ሲቪል መመዝገቢያ ስርዓት እንደ <span class='underline'>ልደት ያሉ የክልሉን ሲቪሎች ክስተቶች ለመከታተል እና ለማስተዳደር በዋናነት <span class='underline'>የኦሮሚያ ክልላዊ መንግስት</span> ሰላማዊ ዜጎችን ለመመዝገብ የሚያገለግል የድር መተግበሪያ ነው። </span>፣ <span class='underline'>ሞት</span>፣ <span class='underline'>ማደጎ</span>፣ <span class='underline'>ጋብቻ</span> እና <span class ='መስመር'>ፍቺ</span>።",
       "imgs": [
         "assets/images/ocra/SmartOCRA1.png",
@@ -52,7 +55,23 @@
       ]
     },
     {
+      "Title": "Code CLI",
+      "Source": "https://github.com/natipro22/CodeCLI",
+      "Nuget": "https://www.nuget.org/packages/CodeCLI",
+      "Description": "ኮድ CLI ቀላል <span class='underline'>የትእዛዝ መስመር በይነገጽ</span> መሳሪያ ሲሆን <span class='underline'>ለመጀመር</span>፣ <span class='underline'>ለመፍጠር የሚጠቀሙበት መሳሪያ ነው። .",
+      "imgs": [
+          "assets/images/codecli/codeCLI.png"
+      ],
+      "Technologies": [
+          "C#",
+          "Class Library",
+          "CLI"
+      ]
+  },
+    {
       "Title": "Geez Net",
+      "Source": "https://github.com/natipro22/GeezNet",
+      "Nuget": "https://www.nuget.org/packages/GeezNet",
       "Description": "እንደ '3456' ያለውን ቁጥር <span class='underline'>ASCII</span> ወደ <span class='underline'>ግእዝ</span> ቁጥር ፴፬፶፮ እና በተቃራኒው ይለውጣል።",
       "imgs": [
         "assets/images/geeznet/geezNumbers.jfif",
@@ -65,6 +84,8 @@
     },
     {
       "Title": "Lucy Calendar",
+      "Source": "https://github.com/natipro22/LucyCalendar",
+      "Nuget": "https://www.nuget.org/packages/LucyCalendar",
       "Description": "<span class='underline'>የግሪጎሪያን</span> ቀን ወደ <span class='underline'>የኢትዮጵያ</span> ቀን እና በተቃራኒው ይለውጣል።",
       "imgs": [
         "assets/images/lucyCalendar/lucy.png",

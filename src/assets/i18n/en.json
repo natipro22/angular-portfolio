@@ -22,10 +22,11 @@
             "Title": ".Net developer",
             "Date": "April 2022 - Present",
             "Description": [
-                "Create and design detabase tables.",
-                "Create APIs",
-                "Testing",
-                "Fix bugs"
+                "Database Design",
+                "API Design",
+                "RestAPIs",
+                "Bug Fix",
+                "Optimization"
             ]
         }
     ],
@@ -34,6 +35,8 @@
     "FeatureProjects.Projects": [
         {
             "Title": "Smart Vital Event Registration Management Systems",
+            "Source": "https://github.com/natipro22/",
+            "Nuget": "",
             "Description": "Oromia Civil Registration System is a web application that is mainly used to register civilians for <span class='underline'>Oromia regional State government</span> to track and manage region’s civilians' events like <span class='underline'>birth</span>, <span class='underline'>death</span>, <span class='underline'>adoption</span>, <span class='underline'>marriage</span> and <span class='underline'>divorce</span>.",
             "imgs": [
                 "assets/images/ocra/SmartOCRA1.png",
@@ -52,7 +55,23 @@
             ]
         },
         {
+            "Title": "Code CLI",
+            "Source": "https://github.com/natipro22/CodeCLI",
+            "Nuget": "https://www.nuget.org/packages/CodeCLI",
+            "Description": "The Code CLI is a simple <span class='underline'>command-line interface</span> tool that you use to <span class='underline'>initialize</span>, <span class='underline'>develop</span>, <span class='underline'>scaffold</span>, and <span class='underline'>maintain</span> dotnet C# applications directly from a command shell.",
+            "imgs": [
+                "assets/images/codecli/codeCLI.png"
+            ],
+            "Technologies": [
+                "C#",
+                "Class Library",
+                "CLI"
+            ]
+        },
+        {
             "Title": "Geez Net",
+            "Source": "https://github.com/natipro22/GeezNet",
+            "Nuget": "https://www.nuget.org/packages/GeezNet",
             "Description": "Converts <span class='underline'>ASCII</span> number like '3456' to <span class='underline'>Geez</span> number '፴፬፻፶፮' and vise versa.",
             "imgs": [
                 "assets/images/geeznet/geezNumbers.jfif",
@@ -65,6 +84,8 @@
         },
         {
             "Title": "Lucy Calendar",
+            "Source": "https://github.com/natipro22/LucyCalendar",
+            "Nuget": "https://www.nuget.org/packages/LucyCalendar",
             "Description": "Converts <span class='underline'>Gregorian</span> date to <span class='underline'>Ethiopian</span> date and vise versa.",
             "imgs": [
                 "assets/images/lucyCalendar/lucy.png",
@@ -75,6 +96,7 @@
                 "Class Library"
             ]
         }
+        
     ],
     "OtherProjects.Title": "More projects",
     "OtherProjects.Projects": [
