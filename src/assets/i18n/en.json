@@ -1,5 +1,5 @@
 {
-    "Name": "Natnael Yirga",
+    "Name": "Natnael Yirga Meri",
     "Header.Item1": "About me",
     "Header.Item2": "Experience",
     "Header.Item3": "Projects",
@@ -7,26 +7,33 @@
     "Header.cvBtn": "Resume",
     "Header.cvName": "Nati_CV.pdf",
     "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "I have <span class='underline'>1+ years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>ASP.NET Core</span> and <span class='underline'>Angular</span> applying good practices and development standards.",
+    "Banner.Description": "I am a Backend Developer with <span class='underline'>3.5+ years of experience</span> building secure, scalable backend systems using <span class='underline'>ASP.NET Core</span> and <span class='underline'>Clean Architecture</span>. Experienced in designing high-performance Web APIs, handling complex remittance service workflows, and integrating international card payment gateways.",
     "Banner.ActionBtn": "Get in touch",
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
-        "In my <span class='underline'>1+ years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>ASP.NET Core and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
-        "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+        "In my <span class='underline'>3.5+ years as a developer</span>, I have focused on building secure, scalable backend systems using ASP.NET Core and Clean Architecture. I have experience designing high-performance Web APIs, handling complex remittance service workflows, and integrating international card payment gateways alongside national platforms.",
+        "My skills include developing maintainable, production-ready solutions that handle real-world cross-border traffic at scale while adhering to modern software architecture, PCI-DSS security standards, and engineering best practices.",
         "Some of the technologies that I have trained and worked on include (but are not limited to):"
     ],
     "Experience.Title": "Experience",
     "Experience.Jobs": [
         {
-            "Tab": "Project",
-            "Title": ".Net developer",
-            "Date": "April 2022 - Present",
+            "Tab": "Arifpay",
+            "Title": ".NET Backend Developer",
+            "Date": "Jul 2025 – Present",
             "Description": [
-                "Database Design",
-                "API Design",
-                "RestAPIs",
-                "Bug Fix",
-                "Optimization"
+                "Design and develop secure backend services and API infrastructure for fintech platforms serving global remittance providers, local merchants, and internal systems.",
+                "Integrate international payment gateways including MasterCard Payment Gateway Services (MPGS) and Visa CyberSource to process secure cross-border card payments and tokenization workflows.",
+                "Architect and optimize high-concurrency remittance backend service engines, facilitating seamless cross-border payout distribution, real-time FX currency conversions, and local bank/wallet settlements."
+            ]
+        },
+        {
+            "Tab": "Appdiv",
+            "Title": ".NET Backend Developer",
+            "Date": "Apr 2023 – Jul 2025",
+            "Description": [
+                "Co-engineered backend APIs for the Oromia Civil Registration System (OCRA), serving 350+ regional offices.",
+                "Integrated external government and enterprise services, designing robust data synchronization protocols across distributed databases."
             ]
         }
     ],
@@ -34,10 +41,50 @@
     "FeatureProjects.Label": "Featured Project",
     "FeatureProjects.Projects": [
         {
-            "Title": "Smart Vital Event Registration Management Systems",
-            "Source": "https://github.com/natipro22/",
+            "Title": "ArifRemit",
+            "Source": "https://arifremit.com",
             "Nuget": "",
-            "Description": "Oromia Civil Registration System is a web application that is mainly used to register civilians for <span class='underline'>Oromia regional State government</span> to track and manage region’s civilians' events like <span class='underline'>birth</span>, <span class='underline'>death</span>, <span class='underline'>adoption</span>, <span class='underline'>marriage</span> and <span class='underline'>divorce</span>.",
+            "Description": "High-concurrency backend services for <span class='underline'>instant cross-border money transfer</span>, managing real-time currency conversions and compliance processing.",
+            "imgs": [],
+            "Technologies": [
+                "ASP.NET Core",
+                "C#",
+                "Web API",
+                "Entity Framework Core",
+                "PostgreSQL"
+            ]
+        },
+        {
+            "Title": "ArtsPlus Streaming Backend",
+            "Source": "https://artsplus.tv",
+            "Nuget": "",
+            "Description": "Scalable streaming platform backend serving high user traffic with <span class='underline'>low-latency API response times</span> for media content delivery.",
+            "imgs": [],
+            "Technologies": [
+                ".NET Core",
+                "Minimal APIs",
+                "RESTful Architecture",
+                "Redis Caching"
+            ]
+        },
+        {
+            "Title": "Arif Merchant App & Dashboard",
+            "Source": "https://merchantapp-dashboard.arifpay.net",
+            "Nuget": "",
+            "Description": "Merchant management backend enabling 1,500+ business owners to handle <span class='underline'>transactions</span>, <span class='underline'>analytics</span>, and <span class='underline'>automated daily settlements</span>.",
+            "imgs": [],
+            "Technologies": [
+                "ASP.NET Core",
+                "JWT Auth",
+                "Microservices",
+                "PostgreSQL"
+            ]
+        },
+        {
+            "Title": "Oromia Civil Registration System (OCRA)",
+            "Source": "http://app.ocra.gov.et",
+            "Nuget": "",
+            "Description": "Government-scale public platform deployed across 350+ regional offices, facilitating the issuance of <span class='underline'>4,000,000+ digital civil certificates</span>.",
             "imgs": [
                 "assets/images/ocra/SmartOCRA1.png",
                 "assets/images/ocra/SmartOCRA2.png",
@@ -47,125 +94,38 @@
                 "assets/images/ocra/SmartOCRA6.png"
             ],
             "Technologies": [
-                "ASP .NET Core",
-                "Angular",
-                "SASS",
-                "Syncfusion",
-                "RxJS"
-            ]
-        },
-        {
-            "Title": "Code CLI",
-            "Source": "https://github.com/natipro22/CodeCLI",
-            "Nuget": "https://www.nuget.org/packages/CodeCLI",
-            "Description": "The Code CLI is a simple <span class='underline'>command-line interface</span> tool that you use to <span class='underline'>initialize</span>, <span class='underline'>develop</span>, <span class='underline'>scaffold</span>, and <span class='underline'>maintain</span> dotnet C# applications directly from a command shell.",
-            "imgs": [
-                "assets/images/codecli/codeCLI.png"
-            ],
-            "Technologies": [
-                "C#",
-                "Class Library",
-                "CLI"
-            ]
-        },
-        {
-            "Title": "Geez Net",
-            "Source": "https://github.com/natipro22/GeezNet",
-            "Nuget": "https://www.nuget.org/packages/GeezNet",
-            "Description": "Converts <span class='underline'>ASCII</span> number like '3456' to <span class='underline'>Geez</span> number '፴፬፻፶፮' and vise versa.",
-            "imgs": [
-                "assets/images/geeznet/geezNumbers.jfif",
-                "assets/images/geeznet/GeezNet.png"
-            ],
-            "Technologies": [
-                "C#",
-                "Class Library"
-            ]
-        },
-        {
-            "Title": "Lucy Calendar",
-            "Source": "https://github.com/natipro22/LucyCalendar",
-            "Nuget": "https://www.nuget.org/packages/LucyCalendar",
-            "Description": "Converts <span class='underline'>Gregorian</span> date to <span class='underline'>Ethiopian</span> date and vise versa.",
-            "imgs": [
-                "assets/images/lucyCalendar/lucy.png",
-                "assets/images/lucyCalendar/lucy1.png"
-            ],
-            "Technologies": [
-                "C#",
-                "Class Library"
+                "ASP.NET Core",
+                "Clean Architecture",
+                "MySQL",
+                "Modular Monolith"
             ]
         }
-        
     ],
     "OtherProjects.Title": "More projects",
     "OtherProjects.Projects": [
         {
-            "Title": "Pokemon",
-            "Description": "Pokemon search engine that uses the pokeapi. Object-oriented programming was used to organize the information of the pokemons along with their respective image.",
-            "ghLink": "https://github.com/nati/pokemon-angular",
-            "demoLink": "https://projects.nati.com/pokemon-list",
+            "Title": "HuluPay Microservice",
+            "Description": "High-performance financial platform engineered with Rust and Axum, leveraging asynchronous runtimes for memory-safe concurrency and minimal execution latency.",
+            "ghLink": "",
+            "demoLink": "https://hulupayet.vercel.app/",
             "Technologies": [
-                "Angular",
-                "RxJs",
-                "API",
-                "Bootstrap"
+                "Rust",
+                "Axum",
+                "Tokio",
+                "SQLx",
+                "PostgreSQL",
+                "WebAssembly"
             ]
         },
         {
-            "Title": "Coming soon page",
-            "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Scheduled to be a fully responsive design. It has a form field to subscribe by email.",
-            "ghLink": "https://github.com/nati/coming-soon-page",
-            "demoLink": "https://projects.nati.com/coming-soon-page",
+            "Title": "Afro Message Client",
+            "Description": "Messaging client integration handling automated OTP delivery and SMS transactional updates.",
+            "ghLink": "https://github.com/natiDotnet/AfroMessage",
+            "demoLink": "",
             "Technologies": [
-                "Angular",
-                "SASS",
-                "CSS GRID",
-                "Reactive form"
-            ]
-        },
-        {
-            "Title": "Four card feature section",
-            "Description": "A single page that has a minimal design, listing four features on four cards. Input animations are done with angular animations.",
-            "ghLink": "https://github.com/nati/fourd-card-feature-section",
-            "demoLink": "https://projects.nati.com/four-card-feature-section",
-            "Technologies": [
-                "Angular",
-                "SASS",
-                "CSS GRID"
-            ]
-        },
-        {
-            "Title": "Social proof section",
-            "Description": "Personal project of a page designed from a Figma layout. Angular was used for development together with SASS and CSS GRID.",
-            "ghLink": "https://github.com/nati/social-proof-section",
-            "demoLink": "https://projects.nati.com/social-proof-section",
-            "Technologies": [
-                "Angular",
-                "CSS GRID",
-                "GIT"
-            ]
-        },
-        {
-            "Title": "FAQ accordion card",
-            "Description": "FAQ accordion with logic and animations made in Angular.",
-            "ghLink": "https://github.com/nati/faq-accordion",
-            "demoLink": "https://proyectos.nati.com/faq-accordion",
-            "Technologies": [
-                "Angular",
-                "CSS GRID",
-                "Angular animations"
-            ]
-        },
-        {
-            "Title": "Profile card",
-            "Description": "Simple one-page design that features a profile letter with basic information about a person.",
-            "ghLink": "https://github.com/nati/profile-card-component",
-            "demoLink": "https://proyectos.nati.com/profile-card-component",
-            "Technologies": [
-                "Angular",
-                "SASS",
-                "GIT"
+                ".NET",
+                "C#",
+                "Typescript"
             ]
         }
     ],
