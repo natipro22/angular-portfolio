@@ -45,7 +45,11 @@
             "Source": "https://arifremit.com",
             "Nuget": "",
             "Description": "High-concurrency backend services for <span class='underline'>instant cross-border money transfer</span>, managing real-time currency conversions and compliance processing.",
-            "imgs": [],
+            "imgs": [
+                "assets/images/remit/Arif-Remit-1.png",
+                "assets/images/remit/Arif-Remit-2.png",
+                "assets/images/remit/Arif-Remit-3.png"
+            ],
             "Technologies": [
                 "ASP.NET Core",
                 "C#",
@@ -59,7 +63,11 @@
             "Source": "https://artsplus.tv",
             "Nuget": "",
             "Description": "Scalable streaming platform backend serving high user traffic with <span class='underline'>low-latency API response times</span> for media content delivery.",
-            "imgs": [],
+            "imgs": [
+                "assets/images/artsplus/Arts-Plus-login.png",
+                "assets/images/artsplus/Arts-Plus-2.png",
+                "assets/images/artsplus/Arts-Plus-3.png"
+            ],
             "Technologies": [
                 ".NET Core",
                 "Minimal APIs",
@@ -72,7 +80,11 @@
             "Source": "https://merchantapp-dashboard.arifpay.net",
             "Nuget": "",
             "Description": "Merchant management backend enabling 1,500+ business owners to handle <span class='underline'>transactions</span>, <span class='underline'>analytics</span>, and <span class='underline'>automated daily settlements</span>.",
-            "imgs": [],
+            "imgs": [
+                "assets/images/merchant-app/Arifpay-Merchant-App-1.png",
+                "assets/images/merchant-app/Arifpay-Merchant-App-2.png",
+                "assets/images/merchant-app/Arifpay-Merchant-App-3.png"
+            ],
             "Technologies": [
                 "ASP.NET Core",
                 "JWT Auth",
