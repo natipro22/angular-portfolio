@@ -11,6 +11,9 @@
     "e2e": "ng e2e"
   },
   "private": true,
+  "engines": {
+    "node": "24.x"
+  },
   "dependencies": {
     "@angular/animations": "~13.2.3",
     "@angular/common": "~13.2.3",
